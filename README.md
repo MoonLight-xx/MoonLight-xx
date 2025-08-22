@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxOGQ2ZDMzYTA2N2Y1YmY3NzZhN2JhMzEwOTVhY2Q4YjdhYTI0ZiZjdD1n/YOkrK6jEuBfPq/giphy.gif" width="220" alt="gaming gif" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="180" alt="Octocat" />
 </p>
 
 ## 👋 About Me
