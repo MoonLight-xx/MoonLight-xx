@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6e/Welcome.gif](https://github.com/MoonLight-xx/MoonLight-xx/raw/main/assets/Whats%20Up%20Hello%20GIF.gif)" width="300" alt="Welcome animated gif" />
+  <img src="https://github.com/MoonLight-xx/MoonLight-xx/raw/main/assets/Whats%20Up%20Hello%20GIF.gif" width="300" alt="Welcome animated gif" />
 </p>
 
 ## 👋 About Me
