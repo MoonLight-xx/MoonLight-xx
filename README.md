@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="https://github.com/MoonLight-xx/MoonLight-xx/raw/main/your-gif.gif" width="220" alt="playful gif" />
+  <img src="https://github.com/rkfg/pixel-art-gif-demo/raw/main/arcade.gif" width="220" alt="Pixel arcade animated gif" />
 </p>
 
 ## 👋 About Me
