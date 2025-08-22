@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="220" alt="Rotating Earth Animated GIF" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Welcome.gif" width="300" alt="Welcome animated gif" />
 </p>
 
 ## 👋 About Me
