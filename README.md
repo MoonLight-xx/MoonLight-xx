@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="https://github.com/rkfg/pixel-art-gif-demo/raw/main/arcade.gif" width="220" alt="Pixel arcade animated gif" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="220" alt="Rotating Earth Animated GIF" />
 </p>
 
 ## 👋 About Me
