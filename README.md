@@ -5,7 +5,7 @@ Hi there! Welcome to my GitHub profile :)
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/4w3G6zqH8vQAAAAC/pixel-arcade.gif" width="220" alt="gaming gif" />
+  <img src="https://openmoji.org/data/color/svg/1F3AE.svg" width="120" alt="Video Game Emoji" />
 </p>
 
 ## 👋 About Me
