@@ -4,10 +4,11 @@ Hi there! Welcome to my GitHub profile :)
 
 <h1 align="center">Hey there, I'm Daniel (aka MoonLight-xx)! 🌙</h1>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="180" alt="Octocat" />
-</p>
+<h1 align="center">Hey there, I'm Daniel! <br> <span style="font-size:1.5rem">aka MoonLight-xx 🌙</span></h1>
 
+<p align="center">
+  <img src="https://media.tenor.com/4w3G6zqH8vQAAAAC/pixel-arcade.gif" width="220" alt="gaming gif" />
+</p>
 ## 👋 About Me
 
 - 🧑‍🎓 I'm **Daniel**, a 17-year-old student currently in school!
